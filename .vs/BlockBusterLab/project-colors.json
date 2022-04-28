@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a34b653-2c17-4766-9afe-921100ff0569": {
+      "ProjectGuid": "7a34b653-2c17-4766-9afe-921100ff0569",
+      "DisplayName": "BlockBusterLab",
+      "ColorIndex": 0
+    },
+    "8f460f15-2bba-4a9a-b7b5-37a8bd861451": {
+      "ProjectGuid": "8f460f15-2bba-4a9a-b7b5-37a8bd861451",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

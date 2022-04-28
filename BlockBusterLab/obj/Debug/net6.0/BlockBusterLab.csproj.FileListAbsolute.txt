@@ -1,0 +1,15 @@
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\bin\Debug\net6.0\BlockBusterLab.exe
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\bin\Debug\net6.0\BlockBusterLab.deps.json
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\bin\Debug\net6.0\BlockBusterLab.runtimeconfig.json
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\bin\Debug\net6.0\BlockBusterLab.dll
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\bin\Debug\net6.0\ref\BlockBusterLab.dll
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\bin\Debug\net6.0\BlockBusterLab.pdb
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\BlockBusterLab.csproj.AssemblyReference.cache
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\BlockBusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\BlockBusterLab.AssemblyInfoInputs.cache
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\BlockBusterLab.AssemblyInfo.cs
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\BlockBusterLab.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\BlockBusterLab.dll
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\ref\BlockBusterLab.dll
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\BlockBusterLab.pdb
+C:\Users\Tiger\OneDrive\Documents\April.C#\BlockBusterLab\BlockBusterLab\obj\Debug\net6.0\BlockBusterLab.genruntimeconfig.cache
